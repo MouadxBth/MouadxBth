@@ -8,7 +8,7 @@ Began my journey in 2016 , worked for several LLCs, have some experience in free
 
 * 🌍  I'm based in Morocco
 * ✉️  You can contact me at [mouad.bouthaich@gmail.com](mailto:mouad.bouthaich@gmail.com)
-* 🚀  I'm currently working on [Born2BeRoot](http://github.com/madebypixel02/born2beroot/blob/master/en.subject.pdf)
+* 🚀  I'm currently working on [Born2BeRoot](https://github.com/MouadxBth/Born2BeRoot/blob/master/en.subject.pdf)
 * 🧠  I'm learning about Linux
 * 🤝  I'm open to collaborating on Java/Kotlin projects
 * ⚡  Introverted nice guy
