@@ -42,6 +42,10 @@ Began my journey in 2016 , worked for several LLCs, have some experience in free
 
 <a href="https://github.com/MouadxBth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadxBth&langs_count=10&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### Profile Views
+
+![](https://hit.yhype.me/github/profile?user_id=86198260)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/imouad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
