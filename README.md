@@ -36,15 +36,21 @@ Began my journey in 2016 , worked for several LLCs, have some experience in free
 
 <a href="http://www.github.com/MouadxBth"><img src="https://github-readme-stats.vercel.app/api?username=MouadxBth&show_icons=true&hide=&count_private=true&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&show_icons=true" alt="MouadxBth's GitHub stats" /></a>
 
+<b>Contributions</b>
+
 <a href="http://www.github.com/MouadxBth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MouadxBth&stroke=ffffff&background=27272a&ring=000000&fire=000000&currStreakNum=ffffff&currStreakLabel=000000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<b>Commits Graph</b>
+
 <a href="http://www.github.com/MouadxBth"><img src="https://activity-graph.herokuapp.com/graph?username=MouadxBth&bg_color=27272a&color=ffffff&line=f97316&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Programming Languages</b>
 
 <a href="https://github.com/MouadxBth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouadxBth&langs_count=10&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Profile Views
 
-![](https://komarev.com/ghpvc/?username=MouadxBth)
+![](https://komarev.com/ghpvc/?username=MouadxBth&style=flat-square&color=orange)
 
 ### Support Me
 
