@@ -4,6 +4,8 @@ Hi 👋 My name is Mouad Bouthaich
 Software Developer
 -------------------------
 
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31zc7zxrnzwk3ekaw6532hzmbkrq)
+
 Worked for several LLCs as well as in freelance, passionate about my work.
 
 * 🌍  Based in Morocco
