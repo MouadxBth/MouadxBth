@@ -1,4 +1,6 @@
-Hi 👋 My name is Mouad Bouthaich, and I'm a Junior Software Developer
+Hi 👋
+I'm Mouad, a Junior Developer
+Welcome to my page!
 =====================================================================
 [![Spotify](https://novatorem-gules-psi.vercel.app/api/spotify)](https://open.spotify.com/user/31zc7zxrnzwk3ekaw6532hzmbkrq)
 ============================================================================================================================
