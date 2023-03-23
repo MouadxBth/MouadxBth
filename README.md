@@ -1,7 +1,7 @@
 Hi 👋
 
 
-I'm Mouad,
+I'm Mouad.
 
 
 Welcome to my page!
