@@ -1,17 +1,21 @@
-Hi 👋
+<p align=center>Hi 👋</p>
+<h3 align=center>I'm Mouad.</p>
+<br/>
 
+<p align=center></p>
 
-I'm Mouad.
-
-
+<div align=center>
+  
 Welcome to my page!
-=====================================================================
+==============================================================================================================================
 [![Spotify](https://novatorem-gules-psi.vercel.app/api/spotify)](https://open.spotify.com/user/31zc7zxrnzwk3ekaw6532hzmbkrq)
 ============================================================================================================================
 
-You can contact me using:
+</div>
+<br/>
+<p align=center>You can contact me using:</p>
 
-<p align="left">
+<p align=center>
   <!-- Dev -->
   <a href="https://www.dev.to/mouadxbth" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
@@ -42,5 +46,7 @@ You can contact me using:
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
   </a>
 </p>
+
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=MouadxBth&style=flat-square&color=orange)
